@@ -2,7 +2,7 @@
 	"name": "Imgur Redirector",
 	"short_name": "ImgurDir",
 	"description": "Redirect Imgur links to ImgurP to unblock access.",
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"version": "1.0.0",
 	"author": "Emre Tanriverdi",
 	"homepage_url": "https://github.com/emretanriverdi/imgur-redirector",
